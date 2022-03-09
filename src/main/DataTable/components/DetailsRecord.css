@@ -1,0 +1,40 @@
+.tiitle{
+    color: rgb(133, 133, 231);
+}
+.inputTittle{
+    color: blue;
+}
+.input{
+    padding: 5px 8px;
+    font-size: 15px;
+    width: 150px;
+    margin-top: 3px;
+}
+.error{
+    color: red;
+}
+.addButton{
+    background-color: rgb(114, 114, 224);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.addButton:hover{
+    background-color: rgb(144, 144, 231);
+}
+.CancelButton{
+    background-color: rgb(145, 161, 163);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    
+}
+.CancelButton:hover{
+    background-color: rgb(122, 145, 148);
+}
+.bottom-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}

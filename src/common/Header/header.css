@@ -1,0 +1,15 @@
+.div{
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 1%;
+    border-bottom: 1.5px solid rgb(197, 192, 192);
+    padding-bottom: 5px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.task{
+    font-weight: 700;
+    font-size: 18px;
+
+    border: rgb(212, 210, 210);
+}

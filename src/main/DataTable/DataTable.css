@@ -1,0 +1,33 @@
+.homeTiitle{
+    color: rgb(80, 80, 255);
+}
+.addRecord{
+    color: rgb(80, 80, 255);
+    text-decoration: underline;
+    padding-bottom: 15px;
+    font-size: 18px;
+    text-decoration: underline  solid rgb(80, 80, 255) 30%;
+}
+.searchInput{
+    padding: 5px 10px;
+}
+.tableheader{
+    background-color: rgb(55, 55, 187);
+}
+.tableTittle{
+    color: white;
+}
+.editButton{
+    background-color: rgb(69, 69, 158);
+    color: white;
+}
+.editButton:hover{
+    background-color: rgb(69, 69, 158);
+}
+.deleteButton{
+    background-color: rgb(236, 47, 47);
+    color: white;
+}
+.deleteButton:hover{
+    background-color: rgb(247, 0, 0);
+}

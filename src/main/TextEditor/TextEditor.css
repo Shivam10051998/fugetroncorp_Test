@@ -1,0 +1,59 @@
+.submitButton{
+    background-color: rgb(78, 78, 236);
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.submitButton:hover{
+    background-color: rgb(12, 12, 218);
+}
+.cancelButton{
+    background-color: rgb(209, 209, 223);
+    color: rgb(31, 29, 29);
+    font-size: 13px;
+    margin-top: 20px;
+}
+.cancelButton:hover{
+    background-color: rgb(161, 161, 173);
+}
+
+.leftDiv{
+    display: flex;
+    border: 1px solid rgb(212, 210, 210);
+    width: 70%;
+}
+.editorDiv{
+    border: 1px solid rgb(212, 210, 210);
+    height: 350px;
+    margin-top: 20px;
+}
+.rightDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45%;
+    flex-direction: column;
+}
+.lineDiv{
+    background-color: rgb(212, 210, 210);
+    width: 2px;
+    height: 80vh;
+    margin: 0px 15px;
+}
+.image{
+    width: 60%;
+    height: 60%;
+    resize:contain;
+    align-self: center;
+    border-radius: 10px;
+    border-width: 1;
+}
+
+.grid{
+    margin-top: 10px;
+    border: 1px solid #969696;
+    border-radius: 10px;
+    height: 8rem;
+    padding: 1rem;
+}
+
